@@ -1,0 +1,15 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-giveaways": "github:imranbarbhuiya/discord-giveaways#develop",
+    "discord.js": "^14.0.0-dev.1641731090.e38d799"
+  }
+}
